@@ -1,2 +1,2 @@
 # distributed-node-sample
-Sample app for Distrubuted Systems with Node.js
+Sample app for Distributed Systems with Node.js
